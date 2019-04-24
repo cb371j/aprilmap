@@ -280,7 +280,7 @@ data:
       host_fqdn_override:
         default: null
         public:
-          host: shipyard.DOMAIN
+          host: shipyard-sw.DOMAIN
     prometheus_openstack_exporter:
       namespace: ucp
       hosts:

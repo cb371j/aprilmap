@@ -513,10 +513,6 @@ data:
       keystone: {}
       libvirt: {}
       mariadb: {}
-      memcached: {}
-      neutron: {}
-        neutron_sriov_agent: docker.io/openstackhelm/neutron:ocata-sriov-1804
-        neutron_sriov_agent_init: docker.io/openstackhelm/neutron:ocata-sriov-1804
       nova: {}
       openvswitch: {}
       rabbitmq: {}
